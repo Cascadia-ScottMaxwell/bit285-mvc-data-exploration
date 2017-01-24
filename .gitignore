@@ -239,3 +239,4 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/MVC-DataExploration/App_Data/grocertogo.mdf
